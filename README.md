@@ -15,7 +15,9 @@ Download nlohmann json with your distro's package manager or with github repo
 
 Change URL String to your openweathermap API url 
 
-Compile with g++ weather.cpp -lcurl
+Compile with g++ weather.cpp -lcurl -o weather
+
+./weather
 
 If you don't have a URL string use my other project:
 https://github.com/retracee/rustopenweathermapURL
