@@ -2,7 +2,9 @@
 Basic C++ Openweathermap CLI Program.
 
 Using nlohmann json for parsing openweathermap API json and Nerd Font for weather status ascii.
+
 https://github.com/nlohmann/json
+
 https://www.nerdfonts.com/
 
 
